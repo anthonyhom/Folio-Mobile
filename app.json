@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "atam-mobile",
+    "slug": "atam-mobile",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Login Credentials - (Username: ahom2@buffalo.edu, Password: hello)... You can also sign up on webdev.cse.buffalo.edu/cse410/atam/Folio using your UB email"
+  }
+}
